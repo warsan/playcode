@@ -1,16 +1,16 @@
 ## PLAYCODE
-Quickly and Easily make Frontend Experiments
+Быстро и легко делать эксперименты с Frontend
 
-[Online Javascript Editor](https://playcode.io/online-javascript-editor)
+[Редактор Javascript в Интернете](https://playcode.io/online-javascript-editor)
 
-[Online HTML Editor](https://playcode.io/online-html-editor)
+[Редактор HTML в Интернете](https://playcode.io/online-html-editor)
 
-PLAYCODE is fast, simple and beautiful.
+PLAYCODE быстрый, простой и красивый.
 
-### Demo 
- - [Source code](https://playcode.io/santa?tabs=game.js&output)
- - [Public](http://santa.playcode.io)
-
-### Desktop client (Unofficial)
+### Демо
+ - [Исходный код](https://playcode.io/santa?tabs=game.js&output)
+ - [Публичный](http://santa.playcode.io)
+ 
+### Клиент рабочего стола (Неофициальный)
 - [Mac OS](https://github.com/playcode/playcode-desktop/releases)
-- [Other platforms with source code](https://github.com/playcode/playcode-desktop)
+- [Другие платформы с исходным кодом](https://github.com/playcode/playcode-desktop)
